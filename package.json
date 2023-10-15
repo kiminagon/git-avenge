@@ -2,7 +2,7 @@
   "name": "git-avenge",
   "version": "1.0.0",
   "description": "",
-  "main": "note.js",
+  "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
